@@ -1,4 +1,4 @@
-def game_hash 
+def game_hash
   hash = {
   :home => {
     :team_name => "Brooklyn Nets",
@@ -13,13 +13,3 @@ def game_hash
         :steals => 3,
         :blocks => 1,
         :slam_dunks => 1
-
-
-
-
-
-
-
-
-
-
