@@ -180,3 +180,4 @@ def player_with_longest_name
   most.max {|b,a| b.length <=> a.length}
 end
 player_with_longest_name
+end
